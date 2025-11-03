@@ -106,7 +106,7 @@ e-com-automation/
 ├─ photo2.png
 └─ output/
    ├─ photo1.png
-   └─ photo2.png
+   └─ photo2.png 
 ```
 
 ---
