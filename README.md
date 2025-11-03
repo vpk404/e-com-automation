@@ -1,4 +1,4 @@
-# ⚡ GPU Batch Background Replacer (CPU Default)
+# ⚡ Batch Background Replacer (CPU Default)
 
 This project helps you remove image backgrounds in bulk and replace them with a new background image. It’s simple, fast, and works by default on CPU. You can enable GPU support for faster results if your system supports it.
 
