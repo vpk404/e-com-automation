@@ -2,7 +2,7 @@
 
 This project helps you remove image backgrounds in bulk and replace them with a new background image. It’s simple, fast, and works by default on CPU. You can enable GPU support for faster results if your system supports it.
 
-**GitHub Repo:** [https://github.com/vpk404/e-com-automation.git](https://github.com/vpk404/e-com-automation.git)
+**GitHub Repo:** [https://github.com/vpk404/bgchange.git](https://github.com/vpk404/bgchange.git)
 
 ---
 
@@ -33,8 +33,8 @@ This project helps you remove image backgrounds in bulk and replace them with a 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/vpk404/e-com-automation.git
-   cd e-com-automation
+   git clone https://github.com/vpk404/bgchange.git
+   cd bgchange
    ```
 
 2. **(Optional) Create a virtual environment:**
@@ -98,7 +98,7 @@ If GPU is detected, `rembg` will automatically use it.
 
 ## 📂 Example Folder Structure
 ```
-e-com-automation/
+bgchange/
 ├─ bg.py
 ├─ requirements.txt
 ├─ README.md
